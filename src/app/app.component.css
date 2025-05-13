@@ -216,23 +216,22 @@ p {
   padding-bottom: 10px;
   text-align: center;
 }
+.contact-us h2{
+  font-size: 2.5rem;
+  font-weight: 700;
+  color: #1c3b47;
+}
+
+.contact-us p {
+  max-width: 800px;
+  margin: 10px auto 30px;
+  color: #555;
+}
 
 .contact-us {
   text-align: center;
   padding: 50px 20px;
   background-color: #fff;
-
-  h2 {
-    font-size: 2.5rem;
-    font-weight: 700;
-    color: #1c3b47;
-  }
-
-  p {
-    max-width: 800px;
-    margin: 10px auto 30px;
-    color: #555;
-  }
 }
 
 .footer {
